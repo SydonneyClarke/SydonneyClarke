@@ -3,7 +3,7 @@
 I'm Sydonney Clarke, a Computer Science student and Content Creator. Here, you'll find some of my projects:
 
 # 🚀 Current Interests:
-- Project Management 📝
+- Product Management 📝
 - Cloud Computing ☁️
 - Cybersecurity 🔐
   
